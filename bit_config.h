@@ -67,6 +67,21 @@
 // Use project enums instead of #define for ON and OFF.
 
 
+// #pragma config statements should precede project file includes.
+// Use project enums instead of #define for ON and OFF.
+
+// #pragma config statements should precede project file includes.
+// Use project enums instead of #define for ON and OFF.
+
+// #pragma config statements should precede project file includes.
+// Use project enums instead of #define for ON and OFF.
+
+// #pragma config statements should precede project file includes.
+// Use project enums instead of #define for ON and OFF.
+
+// #pragma config statements should precede project file includes.
+// Use project enums instead of #define for ON and OFF.
+
 
 
 
